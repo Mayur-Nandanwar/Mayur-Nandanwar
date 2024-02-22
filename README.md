@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/8go4ex"  />
+<img align="right" height="150" src=""  />
 
 ###
 
