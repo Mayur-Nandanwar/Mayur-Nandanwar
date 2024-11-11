@@ -48,7 +48,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mayur-Nandanwar/Mayur-Nandanwar/output/snake.svg" alt="Snake animation" />
-
 ###
 
